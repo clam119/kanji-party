@@ -1,0 +1,11 @@
+{
+  "name": "kanji-party",
+  "version": "1.0.0",
+  "description": "A 4-party kanji studying application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Lam",
+  "license": "ISC"
+}
